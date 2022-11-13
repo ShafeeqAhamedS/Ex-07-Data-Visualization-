@@ -227,9 +227,9 @@ df_corr.corr()
 ![Df](./out/4/1.png)
 ![Df](./out/4/2.png)
 ## Find the relation between sales and profit
-![Df](./out/5/1.png)
+![Df](./out/5/1.png)</br>
+![Df](./out/5/3.png)</br>
 ![Df](./out/5/2.png)
-![Df](./out/5/3.png)
 ## Heatmap
 ![Df](./out/heat.png)
 ## Find the relation between sales and profit based on the following category.
