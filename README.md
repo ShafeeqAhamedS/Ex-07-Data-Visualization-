@@ -204,13 +204,13 @@ df_corr.corr()
 
 # OUPUT
 ## Data Pre-Processing
-![Df](./out/df.png)
-![Df](./out/head.png)
-![Df](./out/info.png)
-![Df](./out/null.png)
-![Df](./out/shape.png)
-![Df](./out/updateddf.png)
-![Df](./out/withoutliers.png)
+![Df](./out/df.png)</br>
+![Df](./out/head.png)</br>
+![Df](./out/info.png)</br>
+![Df](./out/null.png)</br>
+![Df](./out/shape.png)</br>
+![Df](./out/updateddf.png)</br>
+![Df](./out/withoutliers.png)</br>
 ![Df](./out/withoutoutliers.png)
 ## Which Segment has Highest sales?
 ![Df](./out/1/1.png)
